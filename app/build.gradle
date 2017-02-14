@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        applicationId "m2wapps.ar.proclubsmatchconfirm"
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 21
+        versionName "1.0.9"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'org.jsoup:jsoup:1.8.3'
+    compile 'com.android.support:appcompat-v7:25.1.1'
+    compile 'com.google.android.gms:play-services-auth:9.6.0'
+    compile 'com.google.android.gms:play-services-analytics:9.6.0'
+    compile 'com.android.support:design:25.1.1'
+    compile 'com.android.support:recyclerview-v7:25.1.1'
+    //tabs
+    compile 'com.ogaclejapan.smarttablayout:library:1.6.1@aar'
+    //Optional: see how to use the utility.
+    compile 'com.ogaclejapan.smarttablayout:utils-v4:1.6.1@aar'
+    //elegir liga
+    compile 'com.github.chenupt.android:multiplemodel:1.1.0@aar'
+    compile 'com.github.chenupt.android:springindicator:1.0.2@aar'
+    compile 'com.google.guava:guava:18.0'
+    //presentacion
+    compile 'com.github.elevenetc:textsurface:0.9.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+}
+apply plugin: 'com.google.gms.google-services'

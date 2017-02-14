@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linear">
+
+    <TextView
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/pos"
+        android:layout_gravity="left|center_vertical"
+        android:layout_marginLeft="5dp"
+        android:textStyle="bold"
+        android:textSize="30sp"
+    />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/equipo"
+        android:src="@drawable/arg"
+        android:contentDescription="@string/app_name"/>
+
+    <TextView
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/puntaje"
+        android:layout_gravity="center"
+        android:layout_marginLeft="5dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textIsSelectable="false" />
+
+    <TextView
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/partidos"
+        android:layout_gravity="center_vertical"
+        android:textSize="20sp"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/ganados"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/empatados"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/perdidos"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/goles"
+        android:layout_gravity="center|right"
+        android:textSize="15sp" />
+</LinearLayout>

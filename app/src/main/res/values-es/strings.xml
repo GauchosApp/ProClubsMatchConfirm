@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clubes Pro Tools beta </string>
+
+    <string-array name="Ligas">
+        <item>FVPA Argentina</item>
+        <item>FVPA America</item>
+        <item>FVPA Uruguay</item>
+    </string-array>
+    <string-array name="primeraA">
+        <item>MiLeniuM</item>
+        <item>Direwolves FC</item>
+        <item>Segundores F.C</item>
+        <item>AllStars Yerbal</item>
+        <item>Rebote y Gol FC</item>
+        <item>Pro Legends</item>
+        <item>Los Gallos FC</item>
+        <item>Elegance AS</item>
+        <item>Juntacadaveres</item>
+        <item>Hacha y Tiza</item>
+    </string-array>
+    <string-array name="primeraAFix">
+        <item>milenium</item>
+        <item>direwolves</item>
+        <item>segundores</item>
+        <item>yerbal</item>
+        <item>rebote</item>
+        <item>prolegends</item>
+        <item>gallos</item>
+        <item>elegance</item>
+        <item>juntacadaveres</item>
+        <item>hacha</item>
+    </string-array>
+    <string-array name="primeraB">
+        <item>Douglas</item>
+        <item>Líricos F.C.</item>
+        <item>Atlético Carlos Paz</item>
+        <item>Smirnoff</item>
+        <item>Mortadela FC</item>
+        <item>La Batata</item>
+        <item>AlToke Perro</item>
+        <item>San Cristobal</item>
+        <item>El Trebol FC</item>
+        <item>Horrible FC</item>
+    </string-array>
+    <string-array name="primeraBFix">
+        <item>douglas</item>
+        <item>liricos</item>
+        <item>carlospaz</item>
+        <item>smirnoff</item>
+        <item>mortadela</item>
+        <item>batata</item>
+        <item>altokeperro</item>
+        <item>sancristobal</item>
+        <item>trebol</item>
+        <item>horrible</item>
+    </string-array>
+
+    //americas
+    <string-array name="americaA">
+        <item>Los Pijeitors</item>
+        <item>LONGA MECÁNICA</item>
+        <item>FC XGamers</item>
+        <item>Badstars FC</item>
+        <item>Niupi FC</item>
+        <item>VICIOxFIFA</item>
+        <item>CentroGol FC</item>
+        <item>Tesla FC</item>
+        <item>Club de Cuervos</item>
+        <item>FCCOL</item>
+        <item>TODOxFIFA</item>
+        <item>Pepinos Rosados</item>
+    </string-array>
+    <string-array name="americaAFix">
+        <item>pijeitors</item>
+        <item>longa</item>
+        <item>xgamers</item>
+        <item>badstars</item>
+        <item>niupi</item>
+        <item>vicio</item>
+        <item>centrogol</item>
+        <item>tesla</item>
+        <item>cuervos</item>
+        <item>col</item>
+        <item>todo</item>
+        <item>pepinos</item>
+    </string-array>
+    <string-array name="americaB">
+        <item>Sudakas FC</item>
+        <item>FC Spam</item>
+        <item>Capsule Corp</item>
+        <item>Carepichas FC</item>
+        <item>Gamers CR</item>
+        <item>Drink Team LA</item>
+        <item>Perros del Mal FC</item>
+        <item>Deportivo Azteca FC</item>
+        <item>Alianza Latina</item>
+        <item>Mad Dog FC</item>
+    </string-array>
+    <string-array name="americaBFix">
+        <item>sudakas</item>
+        <item>spam</item>
+        <item>capsule</item>
+        <item>carepichas</item>
+        <item>gamers</item>
+        <item>drink</item>
+        <item>perros</item>
+        <item>azteca</item>
+        <item>alianza</item>
+        <item>mad</item>
+    </string-array>
+
+    //uruguay
+    <string-array name="uruA">
+        <item>Los Suplentes</item>
+        <item>СA Amsterdam</item>
+        <item>Decano</item>
+        <item>Intoxicados FC</item>
+        <item>C.F Malware</item>
+        <item>Gurise FC</item>
+    </string-array>
+    <string-array name="uruAFix">
+        <item>suplentes</item>
+        <item>amsterdam</item>
+        <item>decano</item>
+        <item>intoxicados</item>
+        <item>malware</item>
+        <item>gurise</item>
+    </string-array>
+    <string-array name="uruB">
+        <item>Firulete FC</item>
+        <item>Patria Grande</item>
+        <item>Toho FC</item>
+        <item>Dream Team UY</item>
+        <item>Uruguay 1930</item>
+        <item>Tiki Taken FC</item>
+    </string-array>
+    <string-array name="uruBFix">
+        <item>firulete</item>
+        <item>patria</item>
+        <item>toho</item>
+        <item>dreamteam</item>
+        <item>uruguay1930</item>
+        <item>tikitaken</item>
+    </string-array>
+    <string name="coordinar">Coordinar</string>
+    <string name="asdasd">asdasd</string>
+    <string name="asdasd2">asdasd</string>
+    <string name="calendario">Calendario</string>
+    <string name="Tabla">Posiciones</string>
+    <string name="hora">23:00hs</string>
+    <string name="vs">VS</string>
+    <string name="lineas">- - - - - -</string>
+    <string name="estado">ESTADO</string>
+    <string name="listo">LISTO!</string>
+    <string name="preparandose">PREPARANDOSE</string>
+    <string name="pedir_los_10">PEDIR LOS 10</string>
+    <string name="wo">WO</string>
+    <string name="seleccione_una_liga">SELECCIONE UNA LIGA</string>
+    <string name="pos">Pos</string>
+    <string name="jugador">Jugador</string>
+    <string name="equipo">Equipo</string>
+    <string name="asist">Asist.</string>
+    <string name="goles">Goles</string>
+    <string name="pts">Pts</string>
+    <string name="pj">Pj</string>
+    <string name="pg">Pg</string>
+    <string name="pe">Pe</string>
+    <string name="pp">Pp</string>
+    <string name="dif">DIF</string>
+    <string name="ver">VER</string>
+    <string name="hora10">23:10</string>
+    <string name="hora20">23:40</string>
+    <string name="Transfers">Transferencias</string>
+    <string name="Posicion">Posicion:</string>
+    <string name="Invictos">Invicto</string>
+</resources>

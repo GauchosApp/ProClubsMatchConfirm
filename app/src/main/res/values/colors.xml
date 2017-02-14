@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="year">#999999</color>
+    <color name="equipo1">#222222</color>
+    <color name="listo">#0ac200</color>
+    <color name="preparandose">#ff5900</color>
+    <color name="pedir">#005bc2</color>
+    <color name="wo">#ff0011</color>
+    <color name="fondo">#cdcdcd</color>
+    <color name="boton">#09ad00</color>
+
+    <color name="indicator_1">#40bebe</color>
+    <color name="indicator_2">#2889ff</color>
+    <color name="indicator_3">#a0ceff</color>
+</resources>

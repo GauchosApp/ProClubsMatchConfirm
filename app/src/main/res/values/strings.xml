@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">Pro Clubs Tools beta</string>
+    <string name="server_client_id" translatable="false">1018619961953-dkc4of00rp78g4rvub867srk67nm5t23.apps.googleusercontent.com</string>
+    <string name="asdasd">asdasd</string>
+    <string name="asdasd2">asdasd</string>
+
+    <string-array name="Ligas">
+        <item>FVPA Argentina</item>
+        <item>FVPA America</item>
+        <item>FVPA Uruguay</item>
+    </string-array>
+    //primera a argentina
+    <string name="milenium" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/8859</string>
+    <string name="direwolves" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/6262</string>
+    <string name="segundores" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/1049</string>
+    <string name="yerbal" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/8822</string>
+    <string name="rebote" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/2786</string>
+    <string name="prolegends" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/8711</string>
+    <string name="gallos" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/8117</string>
+    <string name="elegance" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/6988</string>
+    <string name="juntacadaveres" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/7043</string>
+    <string name="hacha" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/8121</string>
+    <string-array name="primeraA">
+        <item>MiLeniuM</item>
+        <item>Direwolves FC</item>
+        <item>Segundores F.C</item>
+        <item>AllStars Yerbal</item>
+        <item>Rebote y Gol FC</item>
+        <item>Pro Legends</item>
+        <item>Los Gallos FC</item>
+        <item>Elegance AS</item>
+        <item>Juntacadaveres</item>
+        <item>Hacha y Tiza</item>
+    </string-array>
+    <string-array name="primeraAFix">
+        <item>milenium</item>
+        <item>direwolves</item>
+        <item>segundores</item>
+        <item>yerbal</item>
+        <item>rebote</item>
+        <item>prolegends</item>
+        <item>gallos</item>
+        <item>elegance</item>
+        <item>juntacadaveres</item>
+        <item>hacha</item>
+    </string-array>
+
+    //primera b argentina
+    <string name="douglas" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/2741</string>
+    <string name="liricos" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/2902</string>
+    <string name="carlospaz" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/7341</string>
+    <string name="smirnoff" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/3911</string>
+    <string name="mortadela" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/2740</string>
+    <string name="batata" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/9421</string>
+    <string name="altokeperro" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/3505</string>
+    <string name="sancristobal" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/2744</string>
+    <string name="trebol" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/8838</string>
+    <string name="horrible" translatable="false">http://www.virtualpronetwork.com/apps/ar/team/view/9389</string>
+    <string-array name="primeraB">
+        <item>Douglas</item>
+        <item>Líricos F.C.</item>
+        <item>Atlético Carlos Paz</item>
+        <item>Smirnoff</item>
+        <item>Mortadela FC</item>
+        <item>La Batata</item>
+        <item>AlToke Perro</item>
+        <item>San Cristobal</item>
+        <item>El Trebol FC</item>
+        <item>Horrible FC</item>
+    </string-array>
+    <string-array name="primeraBFix">
+        <item>douglas</item>
+        <item>liricos</item>
+        <item>carlospaz</item>
+        <item>smirnoff</item>
+        <item>mortadela</item>
+        <item>batata</item>
+        <item>altokeperro</item>
+        <item>sancristobal</item>
+        <item>trebol</item>
+        <item>horrible</item>
+    </string-array>
+
+    //americas
+    <string-array name="americaA">
+        <item>Los Pijeitors</item>
+        <item>LONGA MECÁNICA</item>
+        <item>FC XGamers</item>
+        <item>Badstars FC</item>
+        <item>Niupi FC</item>
+        <item>VICIOxFIFA</item>
+        <item>CentroGol FC</item>
+        <item>Tesla FC</item>
+        <item>Club de Cuervos</item>
+        <item>FCCOL</item>
+        <item>TODOxFIFA</item>
+        <item>Pepinos Rosados</item>
+    </string-array>
+    <string-array name="americaAFix">
+        <item>pijeitors</item>
+        <item>longa</item>
+        <item>xgamers</item>
+        <item>badstars</item>
+        <item>niupi</item>
+        <item>vicio</item>
+        <item>centrogol</item>
+        <item>tesla</item>
+        <item>cuervos</item>
+        <item>col</item>
+        <item>todo</item>
+        <item>pepinos</item>
+    </string-array>
+    <string-array name="americaB">
+        <item>Sudakas FC</item>
+        <item>FC Spam</item>
+        <item>Capsule Corp</item>
+        <item>Carepichas FC</item>
+        <item>Gamers CR</item>
+        <item>Drink Team LA</item>
+        <item>Perros del Mal FC</item>
+        <item>Deportivo Azteca FC</item>
+        <item>Alianza Latina</item>
+        <item>Mad Dog FC</item>
+    </string-array>
+    <string-array name="americaBFix">
+        <item>sudakas</item>
+        <item>spam</item>
+        <item>capsule</item>
+        <item>carepichas</item>
+        <item>gamers</item>
+        <item>drink</item>
+        <item>perros</item>
+        <item>azteca</item>
+        <item>alianza</item>
+        <item>mad</item>
+    </string-array>
+
+    //uruguay
+    <string-array name="uruA">
+        <item>Los Suplentes</item>
+        <item>СA Amsterdam</item>
+        <item>Decano</item>
+        <item>Intoxicados FC</item>
+        <item>C.F Malware</item>
+        <item>Gurise FC</item>
+    </string-array>
+    <string-array name="uruAFix">
+        <item>suplentes</item>
+        <item>amsterdam</item>
+        <item>decano</item>
+        <item>intoxicados</item>
+        <item>malware</item>
+        <item>gurise</item>
+    </string-array>
+    <string-array name="uruB">
+        <item>Firulete FC</item>
+        <item>Patria Grande</item>
+        <item>Toho FC</item>
+        <item>Dream Team UY</item>
+        <item>Uruguay 1930</item>
+        <item>Tiki Taken FC</item>
+    </string-array>
+    <string-array name="uruBFix">
+        <item>firulete</item>
+        <item>patria</item>
+        <item>toho</item>
+        <item>dreamteam</item>
+        <item>uruguay1930</item>
+        <item>tikitaken</item>
+    </string-array>
+    <string name="coordinar">Coordinate</string>
+    <string name="calendario">Fixture</string>
+    <string name="Tabla">Tables</string>
+    <string name="hora">23:00hs</string>
+    <string name="vs">VS</string>
+    <string name="lineas">- - - - - -</string>
+    <string name="estado">STATE</string>
+    <string name="listo">READY!</string>
+    <string name="preparandose">GETTING READY</string>
+    <string name="pedir_los_10">10 MIN</string>
+    <string name="wo">WO</string>
+    <string name="seleccione_una_liga">CHOOSE LEAGUE</string>
+    <string name="pos">Pos</string>
+    <string name="jugador">Player</string>
+    <string name="equipo">Team</string>
+    <string name="asist">Asist.</string>
+    <string name="goles">Goals</string>
+    <string name="pts">Pts</string>
+    <string name="pj">P</string>
+    <string name="pg">W</string>
+    <string name="pe">D</string>
+    <string name="pp">L</string>
+    <string name="dif">GD</string>
+    <string name="ver">GO</string>
+    <string name="hora10">23:10</string>
+    <string name="hora20">23:40</string>
+    <string name="Transfers">Transfers</string>
+    <string name="Posicion">Position:</string>
+    <string name="mvps" translatable="false">Mvp\'s</string>
+    <string name="Invictos">Cleansheets</string>
+    <string name="rankings" translatable="false">Rankings</string>
+</resources>

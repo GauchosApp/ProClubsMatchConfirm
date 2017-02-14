@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "1018619961953",
+    "project_id": "ancient-ensign-140021"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018619961953:android:81fba99b63699718",
+        "android_client_info": {
+          "package_name": "m2wapps.ar.proclubsmatchconfirm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018619961953-tp2f52gbjeqg9clnv4d7t1r57n46emv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "m2wapps.ar.proclubsmatchconfirm",
+            "certificate_hash": "7D7B4FFF93A6FE134F393C7081CDE6DC590DA0E0"
+          }
+        },
+        {
+          "client_id": "1018619961953-e4p534nqbg5c6o6td9cbv0oak54vrrs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqPSjhTzcsJlxexbBx1nOw3AprzWE68Nw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-70298705-3"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

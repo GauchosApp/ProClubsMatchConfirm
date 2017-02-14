@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hora"
+        android:id="@+id/hora"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:id="@+id/escudo1"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/arg"
+                android:contentDescription="@string/app_name"/>
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/capitanes1"
+                android:src="@mipmap/ic_info_outline_black_36dp"
+                android:contentDescription="@string/asdasd2"
+                android:layout_alignParentTop="true"
+                android:layout_alignRight="@+id/escudo1"
+                android:layout_alignEnd="@+id/escudo1"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/vs"
+                android:id="@+id/textView3"
+                android:textSize="40sp"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:id="@+id/escudo2"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/arg"
+                android:contentDescription="@string/app_name"/>
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/capitanes2"
+                android:src="@mipmap/ic_info_outline_black_36dp"
+                android:contentDescription="@string/asdasd2"
+                android:layout_alignParentTop="true"
+                android:layout_alignRight="@+id/escudo2"
+                android:layout_alignEnd="@+id/escudo2"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lineas"
+            android:id="@+id/equipo1"
+            android:layout_weight="1"
+            android:textColor="#ffffff"
+            android:background="@color/accent_material_light" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/lineas"
+                android:id="@+id/equipo2"
+                android:layout_gravity="right"
+                android:textColor="#ffffff"
+                android:background="@color/accent_material_light" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estado"
+        android:id="@+id/textView4"
+        android:textSize="40sp"
+        android:layout_gravity="center" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/linearListo"
+            android:gravity="center_vertical">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="@string/listo"
+                android:id="@+id/listo"
+                android:layout_weight="1"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:background="#0ac200"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="5dp" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="center_vertical">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="@string/preparandose"
+                    android:id="@+id/preparandose"
+                    android:textColor="#ffffff"
+                    android:visibility="invisible"
+                    android:background="#ff5900"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="10dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:text="@string/pedir_los_10"
+                android:id="@+id/pedir"
+                android:layout_weight="1"
+                android:layout_gravity="bottom"
+                android:textColor="#ffffff"
+                android:visibility="invisible"
+                android:background="#005bc2"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp" />
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>
